@@ -4,7 +4,7 @@ The study is divided into four sections.
 
 1. **Pan-genome analysis**
     1. Pan-genome partitioning
-    2. Law applied to pan-genome
+    2. Heaps Law applied to pan-genome
 
 2. **Statistical determination of antimicrobial genes (Gene-AMR associations)**
     1. Pairwise assocations with Mutual information  
