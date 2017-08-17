@@ -3,8 +3,8 @@
 The study is divided into three sections.
 
 1. Pan-genome analysis
-+ Item 1a Pan-genome partitioning
-+ Item 1b Law applied to pan-genome
+  1. Pan-genome partitioning
+  2. Law applied to pan-genome
 
 2. Statistical determination of antimicrobial genes (Gene-AMR associations)
 a. Pairwise assocations with Mutual information  
