@@ -2,12 +2,15 @@
 
 The study is divided into three sections.
 
-### 1. Pan-genome analysis
-+ Item a Pan-genome partitioning
-+ Item b Law applied to pan-genome
+1. Pan-genome analysis
++ Item 1a Pan-genome partitioning
++ Item 1b Law applied to pan-genome
 
-### 2. Statistical determination of antimicrobial genes (Gene-AMR associations)
+2. Statistical determination of antimicrobial genes (Gene-AMR associations)
 a. Pairwise assocations with Mutual information  
 b. Machine Learning with a Support Vector Machine
 
-### 3. Game of Allele Coordination (System-AMR assocations)
+3. iEK1020
++ Item 3a
+
+4. Game of Allele Coordination (System-AMR assocations)
